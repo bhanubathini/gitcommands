@@ -1,1 +1,1 @@
-# gitcommands
+# Generate git commands
